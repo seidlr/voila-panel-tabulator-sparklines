@@ -6,5 +6,6 @@ channels:
 dependencies:
   - ipykernel
   - jupyter_bokeh
+  - pandas
   - panel
   - voila
