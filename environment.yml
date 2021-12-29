@@ -1,0 +1,10 @@
+name: voila-panel-tabulator-sparklines
+channels:
+  - conda-forge
+  - bokeh
+  - pyviz
+dependencies:
+  - ipykernel
+  - jupyter_bokeh
+  - panel
+  - voila

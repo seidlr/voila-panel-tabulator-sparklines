@@ -1,0 +1,4 @@
+voila
+numpy
+jupyter_bokeh
+panel
